@@ -10,6 +10,8 @@ async function main() {
       description: "Curso excelente de NodeJS",
     },
   });
+
+  console.log(result);
 }
 
 main();
