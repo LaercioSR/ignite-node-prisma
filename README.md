@@ -1,28 +1,24 @@
 <p align="center">
-  <a href="https://www.rocketseat.com.br/">
-    <img src="https://raw.githubusercontent.com/LaercioSR/ignite-node-prisma/main/assets/rocketseat-logo.png" height="120" width="auto" alt="Rocketseat Logo" />
-  </a>
+    <a href="https://www.rocketseat.com.br/">
+        <img src="https://raw.githubusercontent.com/LaercioSR/ignite-node-prisma/main/assets/rocketseat-logo.png" height="120" width="auto" alt="Rocketseat Logo" />
+    </a>
 </p>
 
 Repository containing the project developed during Ignite extra content from Node.Js by [Rocketseat](https://www.rocketseat.com.br/).
 
 <h4 align="center">
- 🚧 Project in Progress... 🚧
+    🚧  Project in Progress...  🚧
 </h4>
 
 <p align="center">
- <a href="#about-the-project">About</a> •
- <a href="#how-to-run">How to run</a> •
- <a href="#technologies">Technologies</a>
+    <a href="#about-the-project">About</a> •
+    <a href="#how-to-run">How to run</a> •
+    <a href="#technologies">Technologies</a>
 </p>
 
 ## About the project
 
 Application developed for learning the ORM Prisma.
-
-<p align="center">
-  <a href="https://github.com/LaercioSR/ignite-node-prisma/blob/main/Insomnia_API_Rentx.json" target="_blank"><img src="https://insomnia.rest/images/ run.svg" alt="Run in Insomnia"></a>
-</p>
 
 ## How to Run
 
