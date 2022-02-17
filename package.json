@@ -1,0 +1,22 @@
+{
+  "name": "ignite-node-prisma",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/LaercioSR/ignite-node-prisma.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LaercioSR/ignite-node-prisma/issues"
+  },
+  "homepage": "https://github.com/LaercioSR/ignite-node-prisma#readme",
+  "dependencies": {
+    "prisma": "^3.9.2",
+    "ts-node-dev": "^1.1.8",
+    "typescript": "^4.5.5"
+  }
+}
