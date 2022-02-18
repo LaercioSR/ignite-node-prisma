@@ -13,8 +13,8 @@ model Courses {
   description   String?
   duration      Int
   created_at    DateTime @default(now())
-  fk_id_teacher String   @unique
   teacher       Teachers @relation(fields: [fk_id_teacher], references: [id])
+  fk_id_teacher String   @unique
 
   @@map("courses")
 }
